@@ -13,6 +13,8 @@
     "@solana-developers/node-helpers": "^1.2.2",
     "@solana/web3.js": "^1.88.0",
     "esrun": "^3.2.26",
-    "typescript": "^5.3.3"
+    "typescript": "^5.3.3",
+    "web3": "^4.3.0",
+    "web3-eth": "^4.3.1"
   }
 }
